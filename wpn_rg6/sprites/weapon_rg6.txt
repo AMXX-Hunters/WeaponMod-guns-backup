@@ -1,0 +1,5 @@
+4
+weapon			640 rg6_flame	0	135	170	45
+weapon_s		640 rg6_flame	0	90	170	45
+crosshair			640 rgcross	113	0	29	256
+ammo			640 weapon_rg6	0	0	20	25

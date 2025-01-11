@@ -1,0 +1,6 @@
+5
+crosshair		640 crosshairs	48	48	24	24
+autoaim			640	weapon_UT_flakcannon	26	1	24	22
+ammo			640	weapon_UT_flakcannon	1	1	24	41
+weapon			640	weapon_UT_flakcannon	1	43	161	45
+weapon_s		640	weapon_UT_flakcannon	1	89	161	45

@@ -1,0 +1,11 @@
+10
+weapon			320 320hud5	80	0	80	20
+weapon_s		320 320hud5	80	20	80	20
+ammo			320 640hud7	120	72	24	24
+crosshair		320 crosshairs	24	0	24	24
+autoaim			320 crosshairs	0	72	24	24
+weapon			640 640hud18cscz	0	45	170	45
+weapon_s		640 640hud19cscz	0	45	170	45
+ammo			640 hud_ammo		152	98	25	26
+crosshair		640 lol	0	0	128	128
+autoaim			640 lol	0	0	128	128
