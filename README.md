@@ -13,7 +13,7 @@ This repository is intended solely for archival and educational purposes, bringi
 
 ## Installing a Gun Plugin for the Half-Life WeaponMod
 
-This guide will walk you through the steps to install a custom gun plugin for the Half-Life WeaponMod. Ensure you have the WeaponMod and Half-Life installed and set up before proceeding.
+This guide will walk you through the steps to install a custom gun plugin for the Half-Life WeaponMod. Ensure you have the WeaponMod on your Half-Life server installed.
 
 - ![Half-Life WeaponMod](https://github.com/tmp64/weaponmod)
 ---
@@ -21,7 +21,7 @@ This guide will walk you through the steps to install a custom gun plugin for th
 ### Prerequisites
 
 Before starting, ensure you have:
-1. **Half-Life and WeaponMod installed**.
+1. **WeaponMod installed**.
 2. **AMX Mod X installed and working**.
 3. **The plugin resources**:
    - `.sma` file (plugin source code).
