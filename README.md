@@ -45,6 +45,7 @@ This repository is intended solely for archival and educational purposes, bringi
   - ![Gilboa](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/wpn_gilboa)
   - [Guitar](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/wpn_guitar)
   - [KSG-12](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/wpn_ksg12)
+  - [SPAS-12](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/wpn_spas12)
 
 * Half-Life 2
   - ![Overwatch_Standard_Issue_Pulse_Rifle(AR2)](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/wpn_ar2)
