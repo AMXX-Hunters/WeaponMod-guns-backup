@@ -10,53 +10,6 @@ The repository creators do not claim authorship of the plugins collected here. O
 
 This repository is intended solely for archival and educational purposes, bringing together and preserving an important part of Half-Life modding history.
 
-## Installing a Gun Plugin for the Half-Life WeaponMod
-
-This guide will walk you through the steps to install a custom gun plugin for the Half-Life WeaponMod. Ensure you have the WeaponMod and Half-Life installed and set up before proceeding.
-
-- ![Half-Life WeaponMod](https://github.com/tmp64/weaponmod)
----
-
-### Prerequisites
-
-Before starting, ensure you have:
-1. **Half-Life and WeaponMod installed**.
-2. **AMX Mod X installed and working**.
-3. **The plugin resources**:
-   - `.sma` file (plugin source code).
-   - Additional files (models, sounds, or configs, if provided).
-
----
-
-### Installation Steps
-
-#### 1. Compile the `.sma` File
-1. Navigate to your AMX Mod X installation directory.
-   - Look for the `scripting` folder.
-2. Place the `.sma` file in the `scripting` folder.
-3. Use the `compile.exe` tool in the `scripting` folder to compile the `.sma` file:
-   - Run `compile.exe` (double-click it on Windows).
-   - After compiling, the `.amxx` file will be generated in the `scripting/compiled` folder.
-
-#### 2. Copy the Compiled Plugin
-- Move the newly created `.amxx` file to the following directory: `addons/amxmodx/plugins`
-- Add the name of the compiled `.amxx` file to the end of the `plugins.ini` file located in: `addons/amxmodx/configs/plugins.ini`. Example:
-
-```plaintext
-my_new_gun.amxx
-```
-#### 3. Add Additional Resources (if provided)
-
-    Place additional files in their corresponding directories:
-        Models (.mdl): Place in the models folder.
-        Sounds (.wav, .mp3): Place in the sound folder.
-        Sprites (.spr , .txt) : Place in the sprites folder.
-
-#### 4. Restart Your Server
-
-    Restart your Half-Life server to load the plugin.
-
-
 ## List of contents 
 
 ### Weapons
