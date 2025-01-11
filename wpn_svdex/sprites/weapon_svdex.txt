@@ -1,0 +1,7 @@
+6
+weapon			640 cso/640hud41	0	180	170	45
+weapon_s		640 cso/640hud42	0	180	170	45
+ammo			640 cso/640hud7	        0	96	24	24
+ammo2                   640 cso/640hud7         192	124	24	24
+crosshair		640 crosshairs	        0	48	24	24
+autoaim			640 crosshairs	        48	72	24	24

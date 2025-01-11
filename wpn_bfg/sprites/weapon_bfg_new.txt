@@ -1,0 +1,5 @@
+4
+weapon			640 weapon_bigfuckingun 0   0   170  45
+weapon_s		640 weapon_bigfuckingun 0   45  170  45
+crosshair		640 crosshairs	        72  24	24   24
+ammo		        640 weapon_bfg_ammo     230	102	26	26

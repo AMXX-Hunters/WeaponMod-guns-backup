@@ -1,0 +1,5 @@
+3
+
+weapon		640 hud_weapons1	0	204	170	52
+weapon_s	640 hud_weapons1	0	204	170	52
+crosshair	640 crosshairs	48	48	24	24

@@ -1,0 +1,6 @@
+5
+weapon		640 	weapon_photongun	0	0	170	52
+weapon_s		640	weapon_photongun	0	0	170	52
+ammo		640 	weapon_photongun	231	0	36	36
+crosshair		640 	crosshairs			48	48	24	24
+d_photongun	640 	weapon_photongun 	0 	80	77	19

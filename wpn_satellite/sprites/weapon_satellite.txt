@@ -1,0 +1,5 @@
+3
+
+weapon		640 hud_weapons11	0	204	170	52
+weapon_s	640 hud_weapons11	0	204	170	52
+ammo		640 hud_interface		230	102	26	26
