@@ -21,8 +21,9 @@ This guide will walk you through the steps to install a custom gun plugin for th
 ### Prerequisites
 
 Before starting, ensure you have:
+1. **Server using ![ReHLDS](https://github.com/rehlds/ReHLDS) (on Linux) or ![BugfixedHL-Rebased](https://github.com/tmp64/BugfixedHL-Rebased) (on Windows)**
 1. **WeaponMod installed**.
-2. **AMX Mod X installed and working**.
+2. **AMX Mod X 1.10+ installed and working**.
 3. **The plugin resources**:
    - `.sma` file (plugin source code).
    - Additional files (models, sounds, or configs, if provided).
@@ -91,9 +92,9 @@ my_new_gun.amxx
   - ![Skull 11](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/wpn_skull11)
   - ![Skull 4](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/wpn_skull4)
   - ![Gilboa](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/wpn_gilboa)
-  - [Guitar](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/wpn_guitar)
-  - [KSG-12](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/wpn_ksg12)
-  - [SPAS-12](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/wpn_spas12)
+  - ![Guitar](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/wpn_guitar)
+  - ![KSG-12](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/wpn_ksg12)
+  - ![SPAS-12](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/wpn_spas12)
 
 * Half-Life 2
   - ![Overwatch_Standard_Issue_Pulse_Rifle(AR2)](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/wpn_ar2)
