@@ -1,0 +1,7 @@
+7
+weapon			640 640hud141		0	90	170	45
+weapon_s		640 640hud141		0	135	170	45
+crosshair		640 destroyer_scope  	0  	0   256  256
+zoom            640 destroyer_scope  	0  	0   256  256
+autoaim			640 destroyer_scope  	0  	0   256  256
+ammo			640	640hud7			24	72	24	24

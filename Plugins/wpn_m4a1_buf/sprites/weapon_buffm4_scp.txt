@@ -1,0 +1,8 @@
+5
+weapon			640 wpn/640hud132	0	0	170	45
+weapon_s		640 wpn/640hud132	0	45	170	45
+ammo			640 wpn/640hud7		192	205	24	24
+crosshair		640 crosshairs	    0	48	24	24
+autoaim			640 crosshairs	    0	48	24	24
+zoom			640 crosshairs	    0	48	24	24
+zoom_autoaim	640 crosshairs	    0	48	24	24
