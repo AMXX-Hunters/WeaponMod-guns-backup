@@ -95,6 +95,9 @@ my_new_gun.amxx
   - ![Guitar](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_guitar)
   - ![KSG-12](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_ksg12)
   - ![SPAS-12](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_spas12)
+  - ![M4a1-Buff](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_m4a1_buf)
+  - ![Thanatos-7](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_thanatos7)
+   
 
 * Half-Life 2
   - ![Overwatch_Standard_Issue_Pulse_Rifle(AR2)](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_ar2)
@@ -124,20 +127,29 @@ my_new_gun.amxx
 * Day of Defeat
   - ![MG42](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_mg42)
 
+* Sven Coop
+  - ![Sven Coop Uzi](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_uzi_sven_coop)
+
 * Others
   - ![MP5 Scope](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_9mmarS)
   - ![AK-47: Avtomat Kalashnikova](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_ak47)
   - ![Armor piercing rifle](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_armorpiercingrifle)
+  - ![Barrett sniper rifle](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_barrett)
   - ![BFG](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_bfg)
   - ![BlockAR](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_blockar)
   - ![BlockAS](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_blockas)
   - ![C4 Bomb](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_c4_bomb)
   - ![Camera](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_camera)
   - ![Chrone Cannon](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_chronecannon)
+  - ![Desert Eagle](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_deagle)
+  - ![Destroyer 50.cal](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_destroyer)
   - ![Double Deagle](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_ddeagle)
   - ![Double Kriss](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_dkirss)
+  - ![Flamethrower](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_flamethrower)
   - ![FN Minipara](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_fn_minipara)
   - ![M1 Garand](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_garand)
+  - ![M16A1](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_m16a1)
+  - ![M4A1](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_m4a1)
   - ![M4A1 Scope](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_m4a1scope)
   - ![Medic Kit](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_medkit)
   - ![Mossin Nagant](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_mossin)
@@ -149,6 +161,7 @@ my_new_gun.amxx
   - ![Satellite Cannon](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_satellite)
   - ![Sciencists Launcher](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_scigun)
   - ![Stealth Box](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_stealth_box)
+
 
   ### Util
 
