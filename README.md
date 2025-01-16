@@ -71,6 +71,7 @@ my_new_gun.amxx
   - ![Barnacle Grapple](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_grapple)
   - ![Combat Knife](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_knife)
   - ![Displacer cannon (by Glaster)](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_displacer)
+  - ![OP4 Desert Eagle](https://github.com/AMXX-Hunters/WeaponMod-guns-backup/tree/main/Plugins/wpn_op4_deagle)
 
 * Counter-Strike Online
   - ![Ethereal](https://github.com/andreiseverin/WeaponMod-guns-backup/tree/main/Plugins/wpn_ethereal)
